@@ -2,7 +2,7 @@
 
 ## Description
 This project is designed to demonstrate the use of Git and GitHub for version control and collaboration. It includes various essential files such as a README, LICENSE, CODE_OF_CONDUCT, and CONTRIBUTING guide. Additionally, it contains a simple shell script (`simple-interest.sh`) for calculating simple interest.
-
+New updtate for task 2
 ## Features
 - Apache 2.0 License
 - Contribution guidelines
